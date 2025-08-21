@@ -1,2 +1,2 @@
 # .github
-Shaved, butchered, and boiled, Yaks for Ruby Development
+A collection of frozen Yak shavings for Ruby development & testing.
