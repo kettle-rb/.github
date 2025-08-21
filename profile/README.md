@@ -1,6 +1,6 @@
 ## kettle-rb
 
-I plan to stash my shaved, butchered, and boiled Yaks for Ruby Development in this org.
+A collection of frozen Yak shavings for Ruby development & testing.
 
 I expect this list to grow over time to a handful of gems for specific contexts.
 
