@@ -1,6 +1,6 @@
 ## kettle-rb
 
-A collection of frozen Yak shavings for Ruby development & testing.
+A collection of freeze-dried and vacuum-sealed Yak shavings for Ruby development & testing.
 
 - [x] [kettle-soup-cover][kettle-soup-cover] - A Covered Kettle of SOUP, A Code Coverage Meta Gem. Easily configure SimpleCov in 4 lines of code for every CI platform, and control all configurable settings with ENV variables.
 - [x] [kettle-dev][kettle-dev] - Setup a complete rake & dev harness for Ruby development; tasks for coverage, GHA console, linting, debugging, etc.
