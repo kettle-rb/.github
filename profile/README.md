@@ -2,11 +2,13 @@
 
 A collection of freeze-dried and vacuum-sealed Yak shavings for Ruby development & testing.
 
+- [x] [prism-merge][prism-merge] - Intelligently merge two versions of a Ruby file using Prism AST analysis, similar to a smart 'git merge' specifically designed for Ruby code.
 - [x] [kettle-soup-cover][kettle-soup-cover] - A Covered Kettle of SOUP, A Code Coverage Meta Gem. Easily configure SimpleCov in 4 lines of code for every CI platform, and control all configurable settings with ENV variables.
 - [x] [kettle-dev][kettle-dev] - Setup a complete rake & dev harness for Ruby development; tasks for coverage, GHA console, linting, debugging, etc.
 - [x] [kettle-test][kettle-test] - Setup a complete RSpec test harness, temporal manipulation, silent output testing, block expectations, etc.
 - [ ] [kettle-wash][kettle-wash] - Coming soon! Runner up name: "constant_change". A gem for your test / spec harness providing a pattern for resetting constants; Enable simpler testing, and consistent deterministic results.
 
+[prism-merge]: https://github.com/kettle-rb/prism-merge
 [kettle-dev]: https://github.com/kettle-rb/kettle-dev
 [kettle-test]: https://github.com/kettle-rb/kettle-test
 [kettle-wash]: https://github.com/kettle-rb/kettle-wash
