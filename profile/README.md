@@ -6,6 +6,7 @@ A collection of freeze-dried and vacuum-sealed Yak shavings for Ruby development
 
 | Gem | Format | Parser | Description |
 |-----|--------|--------|-------------|
+| [tree_haver][tree_haver] | ASTs | ALL | Cross-Ruby adapter for the tree-sitter & citrus parsing libraries; supporting MRI Ruby, JRuby, & TruffleRuby |
 | [ast-merge][ast-merge] | Text | internal | Shared infrastructure for all `*-merge` gems |
 | [prism-merge][prism-merge] | Ruby | [Prism][prism] | Smart merge for Ruby source files |
 | [psych-merge][psych-merge] | YAML | [Psych][psych] | Smart merge for YAML files |
@@ -50,6 +51,7 @@ A collection of freeze-dried and vacuum-sealed Yak shavings for Ruby development
 [kettle-wash]: https://github.com/kettle-rb/kettle-wash
 [kettle-soup-cover]: https://github.com/kettle-rb/kettle-soup-cover
 
+[tree_haver]: https://github.com/kettle-rb/tree_haver
 [ast-merge]: https://github.com/kettle-rb/ast-merge
 [prism-merge]: https://github.com/kettle-rb/prism-merge
 [psych-merge]: https://github.com/kettle-rb/psych-merge
