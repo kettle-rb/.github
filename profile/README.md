@@ -146,9 +146,9 @@ tree_haver supports multiple parsing backends, but not all backends work on all 
 
 **Example implementations** for the gem templating use case:
 
-| Gem | Purpose | Description |
-|-----|---------|-------------|
-| [kettle-jem][kettle-jem] | Gem Templating | Gem template library with smart merge support |
+| Gem                      | Purpose         | Description                                   |
+|--------------------------|-----------------|-----------------------------------------------|
+| [kettle-jem][kettle-jem] | Gem Templating  | Gem template library with smart merge support |
 
 ## Dev Harness
 
