@@ -167,6 +167,7 @@ tree_haver supports multiple parsing backends, but not all backends work on all 
 
 | Gem | Purpose | Description |
 |-----|---------|-------------|
+| [token-resolver][token-resolver] | Templating | Replace tokens in a template from a Hash Map |
 | [kettle-wash][kettle-wash] | Spec Development | Coming soon! Runner up name: "constant_change". Provides a pattern for resetting constants for consistent deterministic results. |
 
 [kettle-dev]: https://github.com/kettle-rb/kettle-dev
@@ -174,3 +175,4 @@ tree_haver supports multiple parsing backends, but not all backends work on all 
 [kettle-test]: https://github.com/kettle-rb/kettle-test
 [kettle-wash]: https://github.com/kettle-rb/kettle-wash
 [kettle-soup-cover]: https://github.com/kettle-rb/kettle-soup-cover
+[token-resolver]: https://github.com/kettle-rb/token-resolver
