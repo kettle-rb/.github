@@ -1,2 +1,3 @@
 # .github
-A collection of frozen Yak shavings for Ruby development & testing.
+
+Organization profile content for the `kettle-dev` GitHub organization.
